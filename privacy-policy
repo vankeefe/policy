@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      line-height: 1.6;
+      max-width: 800px;
+    }
+    h1 {
+      color: #333;
+    }
+    h2 {
+      margin-top: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective date: <strong>September 19, 2025</strong></p>
+
+  <p>This Privacy Policy explains how our application (“the App”) collects, uses, and protects your information when you use our services that connect with Facebook via the Facebook Graph API.</p>
+
+  <h2>Information We Collect</h2>
+  <p>When you log in with Facebook, we may collect information such as:</p>
+  <ul>
+    <li>Your name</li>
+    <li>Email address</li>
+    <li>Profile picture</li>
+    <li>Other data you consent to share with the App</li>
+  </ul>
+
+  <h2>How We Use Information</h2>
+  <p>We use your information only to provide and improve the App’s features, such as:</p>
+  <ul>
+    <li>Personalizing your experience</li>
+    <li>Enabling login and account management</li>
+    <li>Communicating with you if necessary</li>
+  </ul>
+
+  <h2>Sharing of Information</h2>
+  <p>We do not sell, trade, or share your personal information with third parties except as required by law or to comply with Facebook’s platform policies.</p>
+
+  <h2>Data Security</h2>
+  <p>We take reasonable measures to protect your information but cannot guarantee absolute security of data transmitted over the internet.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised effective date.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, you may contact us at: <strong>[your email here]</strong></p>
+</body>
+</html>
